@@ -39,4 +39,4 @@ Based on the 5,000 simulated scenarios, here is how to read the data:
    ```bash
    git clone [https://github.com/lokar10/monte-carlo-risk-analysis.git](https://github.com/lokar10/monte-carlo-risk-analysis.git)
 2. Install requirements: pip install -r requirements.txt
-3. Run the simulation: python simulation.py
+3. Run the simulation: monte-carlo-risk-analysis.py
